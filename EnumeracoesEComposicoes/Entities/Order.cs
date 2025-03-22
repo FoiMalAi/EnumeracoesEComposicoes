@@ -14,7 +14,6 @@ namespace Enumeracoes.Entities
                 + ", "
                 + Moment
                 + ", "
-
                 + Status;
         }
     }
