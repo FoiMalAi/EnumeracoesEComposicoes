@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeracoes", "EnumeracoesEComposicoes\Enumeracoes.csproj", "{1D0DA1E5-B480-4D59-8D55-BC5CD896AFE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioResolvido1-1", "ExercicioResolvido1-1\ExercicioResolvido1-1.csproj", "{67424701-13DF-402E-ACAD-8DD53F8D2F8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1D0DA1E5-B480-4D59-8D55-BC5CD896AFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D0DA1E5-B480-4D59-8D55-BC5CD896AFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D0DA1E5-B480-4D59-8D55-BC5CD896AFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67424701-13DF-402E-ACAD-8DD53F8D2F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67424701-13DF-402E-ACAD-8DD53F8D2F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67424701-13DF-402E-ACAD-8DD53F8D2F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67424701-13DF-402E-ACAD-8DD53F8D2F8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
